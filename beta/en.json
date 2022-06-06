@@ -1,0 +1,18 @@
+{
+    "error.unableExec": "Unable to warn this user.",
+    "error.notInGuild": "This user wasn't in this guild.",
+    "error.noUserSpec": "You need to mention somebody in your message.",
+    "error.UserBannable": "This user isn't bannable because due to role hierarchy.",
+    "error.categoryDisabled": "This category was disabled by your server administrators.",
+    "error.serverOwner": "You can't ban the server owner.",
+    "error.Higher": "You can't ban this user due the user has a **higher** or **equal** role position than you.",
+    "error.self": "You can't do this on yourself.",
+    "warnedUser": "User Warned",
+    "embed.user": "User",
+    "embed.mod": "Moderator",
+    "embed.reason": "Reason",
+    "embed.warnIssued": "Warnings Issued",
+    "warned": "Warned ",
+    "noPerm": "You didn't have enough permission to use this command.",
+    "help": "It's good to see you on this temporary help menu page, as you can see this message that means the language update went live and it works."
+}
