@@ -1,0 +1,18 @@
+{
+    "error.unableExec": "無法警告此用戶。",
+    "error.notInGuild": "此用戶不在這伺服器內。",
+    "error.noUserSpec": "你必須在你的留言中提及某人。",
+    "error.UserBannable": "由於身分組的權限,你無法禁止這個人。",
+    "error.categoryDisabled": "此類別已被管理員關閉。",
+    "error.serverOwner": "你不能禁止伺服器主。",
+    "error.Higher": "你無法禁止此用戶,因為他有比你更高或是相同的身分組。",
+    "error.self": "你不能對自己這麼做。",
+    "warnedUser": "警告用戶",
+    "embed.user": "用戶",
+    "embed.mod": "管理員",
+    "embed.reason": "原因",
+    "embed.warnIssued": "發出警告",
+    "warned": "警告 ",
+    "noPerm": "你沒有足夠的權限使用這個指令。",
+    "help": "很高興在這個臨時幫助菜單頁面上見到你， 如您所見，此消息意味著語言更新已上線並且可以正常工作。"
+}
