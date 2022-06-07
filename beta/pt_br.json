@@ -1,0 +1,18 @@
+{  
+    "error.unableExec": "Não foi possível avisar este usuário.",
+    "error.notInGuild": "Este usuário não pertencia a esta guilda.",
+    "error.noUserSpec": "Você precisa mencionar alguém em sua mensagem.",
+    "error.UserBannable": "Este usuário não pode ser banido por causa da hierarquia de funções.",
+    "error.categoryDisabled": "Esta categoria foi desativada pelos administradores de seu servidor.",
+    "error.serverOwner": "Você não pode banir o proprietário do servidor.",
+    "error.Higher": "Você não pode banir este usuário porque o usuário tem um cargo **superior*** ou **igual*** ao seu.",
+    "error.self": "Você não pode fazer isso em você mesmo.",
+    "warnedUser": "Usuário advertido",
+    "embed.user": "Usuário",
+    "embed.mod": "Moderador",
+    "embed.reason": "Motivo",
+    "embed.warnIssued": "Avisos emitidos",
+    "warned": "Avisado ",
+    "noPerm": "Você não tinha permissão suficiente para usar este comando.",
+    "help": "É bom ver você na página de menu de ajuda temporária,pois se você pode ver esta mensagem que significa que a atualização do idioma foi ao ar e funciona."
+    }
