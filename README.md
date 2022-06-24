@@ -35,6 +35,10 @@ Anyway, here is an example on how your file should look
     "help": "Text here"
 }
 ```
+## Can I edit the `/stable/locale.json` files?
+
+Yes you can. But that one would be a lot more challenge then if you did the beta translations one. However, if you have ever translated in the beta version, those strings you translated will be put on the final version (stable) unless, if you fully translate the stable translations. But translating 89 strings (as of right now), is quite challenging.
+
 
 ## Thank you
 Thank you for help Yuki learn a lot from your languages!
