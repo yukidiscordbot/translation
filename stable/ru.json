@@ -56,7 +56,7 @@
     "error_setting_new_val": "Укажите новое значение.",
     "error_setting_same_val": "Эта конфигурация уже имеет значение.",
     "error_setting_value_empty": "Значение не может быть пустым.",
-    "error_respond_player_late": "слишком поздно ответили.",
+    "error_respond_player_late": "был слишком ленив, чтобы ответить",
     "error_player_is_a_chicken": "были курицой к",
     "error_game_playerError": "Этот игрок не смог присоединиться.",
     "error_genshin_null": "Укажите персонажа в вашем сообщении.",
