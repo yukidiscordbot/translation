@@ -79,7 +79,6 @@
 	"error_notInGuild": "This user wasn't in this guild.",
 	"error_noUserSpec": "You need to mention somebody in your message.",
 	"error_UserBannable": "This user isn't bannable because due to role hierarchy.",
-	"error_categoryDisabled": "This category was disabled by your server administrators.",
 	"error_serverOwner": "You can't ban the server owner.",
 	"error_Higher": "You can't ban this user due the user has a **higher** or **equal** role position than you.",
 	"error_self": "You can't do this on yourself.",
