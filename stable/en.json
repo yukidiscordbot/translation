@@ -127,6 +127,8 @@
 	"error_music_vc_speak": "I can't speak in",
 	"error_music_vc_speak2": "voice channel. Be sure you have **`SPEAK`** permission on me in this voice channel.",
 	"error_music_vc_full": "This voice channel seems to be full, try disconnecting users from this voice channel before playing.",
+	"embed_permTest_perm": "Permission",
+	"embed_permTest_stat": "Status",
 	"embed_permTest_yes": "Yes",
 	"embed_permTest_no": "No",
 	"embed_permTest": "Permission Test",
