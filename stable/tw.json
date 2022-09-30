@@ -199,7 +199,7 @@
 	"success_configReset": "設置已成功重置",
 	"success_level": "恭喜",
 	"success_level_pt2": "已將**升級**到級別",
-	"success_verify": "您已通過驗證"
+	"success_verify": "您已通過驗證",
 	"success_verify_pt2": "現在您可以訪伺服器並擁有您的",
 	"success_verify_pt3": "身分組",
 	"success_verifyDM": "謝謝",
