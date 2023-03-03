@@ -1,4 +1,7 @@
 {
+	"admininv": "You invited me using `Administrator` (`8`) permission, this is known to be dangerous! Are you sure you want to do this?",
+	"admin_perm": "I'm not designed to have `Administrator` permission assigned to me.",
+	"admin_perm_pt2": "This permission is dangerous! It's recommended to run the permission test to ensure every permission is given correctly.",
 	"dv": "Default Value",
 	"added": "Added",
 	"sfp": "songs from playlist",
