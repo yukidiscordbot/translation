@@ -2,6 +2,8 @@
 	"config_var_pt1": "These configuration variables can be changed via this command.",
 	"config_var_pt2": "(*Example:*",
 	"config_var_pt3": "to change my prefix!)",
+	"setting_view_pt1": "The setting of",
+	"setting_view_pt2": "is set to",
 	"admininv": "You invited me using `Administrator` (`8`) permission, this is known to be dangerous! Are you sure you want to do this?",
 	"search_mus": "**Searching** for",
 	"started_playing": "Started playing",
