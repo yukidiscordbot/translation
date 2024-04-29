@@ -142,6 +142,8 @@
 	"embed_permTest_stat": "Status",
 	"embed_permTest_yes": "Yes",
 	"embed_permTest_no": "No",
+	"embed_np_title": "Now Playing",
+	"embed_np_songs_footer": "songs enqueued",
 	"embed_permTest": "Permission Test",
     "embed_permTest_Desc": "This table is useful for reporting bugs or any issues when using me! If one of the permission fails or show **No**, the bot does **not** have that permission assigned.",
 	"embed_permLvL_Title": "There are `12` permission levels in total.",
